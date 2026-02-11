@@ -3,7 +3,7 @@ Contributors: claudiosanches, rodrigoprior, matheuscl
 Donate link: https://apoia.se/claudiosanches?utm_source=plugin-correios
 Tags: shipping, delivery, woocommerce, correios
 Requires at least: 4.0
-Tested up to: 6.4
+Tested up to: 6.7
 Stable tag: 4.2.5
 Requires PHP: 5.6
 License: GPLv2 or later
@@ -73,7 +73,7 @@ Para garantir que tudo esta funcionando tenha certeza de configurar o peso e med
 = Configurações dos produtos =
 
 É necessário configurar o **peso** e **dimensões** de todos os seus produtos, caso você queria que a cotação de frete seja exata.
-Note que é possível configurar com produtos do tipo **simples** ou **variável** e não *virtuais* (produtos virtuais são ignorados na hora de cotar o frete).  
+Note que é possível configurar com produtos do tipo **simples** ou **variável** e não *virtuais* (produtos virtuais são ignorados na hora de cotar o frete).
 
 Alternativamente, você pode configurar apenas o peso e deixar as dimensões em branco, pois serão utilizadas as configurações do **Pacote Padrão** para as dimensões (neste caso pode ocorrer uma variação pequena no valor do frete, pois os Correios consideram mais o peso do que as dimensões para a cotação).
 
